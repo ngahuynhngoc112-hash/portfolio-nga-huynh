@@ -1,0 +1,21 @@
+ĐẶT ẢNH TỰ CHỌN CỦA BẠN VÀO THƯ MỤC NÀY, ĐẶT ĐÚNG TÊN ĐỂ WEB TỰ HIỂN THỊ.
+
+CHÂN DUNG:
+ intro-photo.jpg
+
+BÌA DỰ ÁN:
+ cover-zenith.jpg
+ cover-th-true-mart.jpg
+ cover-isc-hau-giang.jpg
+ cover-clavis.jpg
+ cover-pricing.jpg
+
+ẢNH SẢN PHẨM/CASE STUDY:
+ gallery-zenith-01.jpg, gallery-zenith-02.jpg, gallery-zenith-03.jpg
+ gallery-th-true-mart-01.jpg, ..., gallery-th-true-mart-04.jpg
+ gallery-isc-hau-giang-01.jpg, ..., gallery-isc-hau-giang-05.jpg
+ gallery-clavis-01.jpg, ..., gallery-clavis-05.jpg
+ gallery-pricing-01.jpg, gallery-pricing-02.jpg, gallery-pricing-03.jpg
+
+CÁCH THAY: CHÉP ĐÈ FILE JPG VỚI ĐÚNG TÊN, sau đó Ctrl+F5 trong trình duyệt.
+Xem README.md ở thư mục chính để biết tỷ lệ và chú thích chi tiết.
